@@ -1,0 +1,19 @@
+.shape {
+    height: 0;
+    width: 0;
+    /*border: 30px solid black;
+    border-radius: 50%;
+    */border-radius: 50%;
+    border-left: 30px solid black;
+    border-bottom: 20px solid transparent;
+    border-top: 20px solid transparent;
+    /* transform:ro; */
+    /*transition:  ;
+    *//*border-bottom: 20px solid black;
+    border-left: 20px solid transparent;
+    border-right: 30px solid transparent;
+    *//*-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    */}
